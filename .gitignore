@@ -34,6 +34,9 @@ dog_ears.png
 dog_nose.png
 dog_tongue.png
 
+# Local model file
+face_landmarker.task
+
 # Optional generated media
 output/
 captures/
